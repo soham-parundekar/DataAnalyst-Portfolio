@@ -70,9 +70,7 @@ Customize the data processing steps based on your specific data requirements.
 2. Visualize cryptocurrency price trends, market capitalization, or trading volumes.
 3. Customize the visualizations with appropriate labels, titles, and legends for better understanding.
 
-![image](https://github.com/soham-parundekar/APIPull-Automation/assets/96282313/c51dbe69-85df-4565-9b53-6ba301754cc2)
-
-![image](https://github.com/soham-parundekar/APIPull-Automation/assets/96282313/eafb9367-05ea-4f41-a875-6ed29b011892)
+![image](https://github.com/soham-parundekar/APIPull-Automation/assets/96282313/c51dbe69-85df-4565-9b53-6ba301754cc2) ![image](https://github.com/soham-parundekar/APIPull-Automation/assets/96282313/eafb9367-05ea-4f41-a875-6ed29b011892)
 
 
 <a name="contri"></a>
